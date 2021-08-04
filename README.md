@@ -1,5 +1,5 @@
 # EEE-micro-controller
-This public repo contains microcontroller and emmbended system module projects wich are for beginners in microprocessors and microcontroller systems.
+This public repo contains microcontroller and emmbended system module projects which are for beginners in microprocessors and microcontroller systems.
 # What's include?
 ## 8085:
 beginners projects examples of 8085 intel microprocessor.
