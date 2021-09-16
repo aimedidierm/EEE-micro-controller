@@ -1,0 +1,18 @@
+
+;<Program title>
+
+jmp start
+
+;data
+
+
+;code
+start: nop
+MOV B,H
+MOV C,L
+MOV H,D
+MOV L,E
+MOV D,B
+MOV E,C
+
+hlt

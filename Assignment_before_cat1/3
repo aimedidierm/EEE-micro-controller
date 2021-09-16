@@ -1,0 +1,15 @@
+
+;<Program title>
+
+jmp start
+
+;data
+
+
+;code
+start: nop
+MVI A,3AH
+ADI 48H
+STA 2100H
+
+hlt

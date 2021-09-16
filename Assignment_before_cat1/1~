@@ -1,0 +1,22 @@
+
+;<Program title>
+
+jmp start
+
+;data
+LDA 3000H
+STA 3200H
+LDA 3001H
+STA 3201H 
+LDA 3002H
+STA 3202H 
+LDA 3003H
+STA 3203H 
+LDA 3004H
+STA 3204H
+
+;code
+start: nop
+
+
+hlt

@@ -1,0 +1,15 @@
+
+;<Program title>
+
+jmp start
+
+;data
+
+
+;code
+start: nop
+MOV A,E
+SUB D
+MOV C,A
+
+hlt

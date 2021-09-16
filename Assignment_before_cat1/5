@@ -1,0 +1,24 @@
+
+;<Program title>
+
+jmp start
+
+;data
+
+
+;code
+start: nop
+MOV A,B
+ANA C
+ANA E
+STA 3000H
+MOV A,B
+ORA C
+ORA E
+STA 3001H
+MOV A,B
+XRA C
+XRA E
+STA 3002H
+
+hlt
